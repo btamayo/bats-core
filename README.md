@@ -2,7 +2,7 @@
 
 [![Continuous integration on Travis for macOS and Linux](https://travis-ci.org/bats-core/bats-core.svg?branch=master)](https://travis-ci.org/bats-core/bats-core)
 
-[!Continuous integration status for Windows](https://ci.appveyor.com/api/projects/status/tokwm9t9jp5fe7af?svg=true)](https://ci.appveyor.com/project/bats-core/bats-core)
+[![Continuous integration status for Windows](https://ci.appveyor.com/api/projects/status/tokwm9t9jp5fe7af?svg=true)](https://ci.appveyor.com/project/bats-core/bats-core)
 
 ## This repo **_bats-core_** comprises Bats. 
 
@@ -245,7 +245,7 @@ base image in a Dockerfile using `FROM <Docker image>`.
 In the future there may be images based on Debian, and/or with more tools
 installed (`curl` and `openssl`, for example). If you require a specific
 configuration please search and +1 an issue or
-[raise a new issue](https://github.com/bats-core/bats-core/issues). 
+[raise a new issue](https://github.com/bats-core/bats-core/issues).
 
 You can find the Dockerfile for this image here: [Dockerfile](Dockerfile).
 
@@ -267,11 +267,7 @@ on the wiki.
 
 View the entire changelog at [CHANGELOG.md](CHANGELOG.md).
 
----
-
-© 2017 Bianca Tamayo (bats-core organization)
-
-© 2014 Sam Stephenson
+## License
 
 Bats and the bats-core project is released under an MIT-style license;
-see [LICENSE](LICENSE) for details.
+see [LICENSE](LICENSE.md) for details.
