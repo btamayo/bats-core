@@ -2,7 +2,7 @@
 
 [![Continuous integration on Travis for macOS and Linux](https://travis-ci.org/bats-core/bats-core.svg?branch=master)](https://travis-ci.org/bats-core/bats-core) [![Continuous integration status for Windows](https://ci.appveyor.com/api/projects/status/tokwm9t9jp5fe7af?svg=true)](https://ci.appveyor.com/project/bats-core/bats-core)
 
-## This repo **_bats-core_** comprises Bats. 
+## This repo **_bats-core_** comprises Bats
 
 Bats is a [TAP](http://testanything.org)-compliant testing framework
 for Bash. It provides a simple way to verify that the UNIX programs
@@ -204,6 +204,16 @@ in the test file.
 * `$BATS_TMPDIR` is the location to a directory that may be used to
 store temporary files.
 
+## Installing Bats
+
+### Via Homebrew
+
+You can install bats via [homebrew](https://brew.sh/) by doing:
+
+```shell
+$ brew update && brew install bats
+```
+
 ## Installing Bats from source
 
 Check out a copy of the Bats repository. Then, either add the Bats
@@ -246,6 +256,10 @@ configuration please search and +1 an issue or
 [raise a new issue](https://github.com/bats-core/bats-core/issues).
 
 You can find the Dockerfile for this image here: [Dockerfile](Dockerfile).
+
+## Supported bash distributions and versions
+
+
 
 ## Support
 
