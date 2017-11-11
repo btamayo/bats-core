@@ -1,8 +1,6 @@
 # BATS-core: Bash Automated Testing System (2017)
 
-[![Continuous integration on Travis for macOS and Linux](https://travis-ci.org/bats-core/bats-core.svg?branch=master)](https://travis-ci.org/bats-core/bats-core)
-
-[![Continuous integration status for Windows](https://ci.appveyor.com/api/projects/status/tokwm9t9jp5fe7af?svg=true)](https://ci.appveyor.com/project/bats-core/bats-core)
+[![Continuous integration on Travis for macOS and Linux](https://travis-ci.org/bats-core/bats-core.svg?branch=master)](https://travis-ci.org/bats-core/bats-core) [![Continuous integration status for Windows](https://ci.appveyor.com/api/projects/status/tokwm9t9jp5fe7af?svg=true)](https://ci.appveyor.com/project/bats-core/bats-core)
 
 ## This repo **_bats-core_** comprises Bats. 
 
